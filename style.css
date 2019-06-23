@@ -1,0 +1,17 @@
+h1{
+    color:yellowgreen
+ }
+ .text-blue{
+    color: pink
+ }
+ .head-div{
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    margin:20px;
+    float: left;
+ }
+ .head-div>p{
+    color: red
+    padding: 20px
+ }
